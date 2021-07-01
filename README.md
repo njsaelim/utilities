@@ -1,2 +1,2 @@
-# utilities
-Utility codes for various purposes
+# Utilities
+Utility codes for various purposes (bash, powershell script, preprocessing, visualization, etc.). 
