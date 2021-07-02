@@ -29,6 +29,9 @@ This Jupyter notebook contains python codes for extracting and exporting CMIP6 (
 
 
 ### 6. Data-visualization
+* Map visualization
+* Times series
+* Heat map
 [coming soon]
 
 
