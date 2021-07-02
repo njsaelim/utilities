@@ -1,6 +1,6 @@
 # Utilities
 
-This repository is more like a compilation of useful codes for climate analysis work (e.g. extracting, manipulating, and visualizing climate model output, reanalysis, and other related-timeseries). Most of these are python codes (with tiny bits of PowerShell script, fortran, and R.)
+This repository is more like a compilation of useful codes for climate analysis work (e.g. extracting, manipulating, and visualizing climate timeseries and more). Most of these are python codes and PowerShell script (with tiny bits of fortran and R).
 
 ## Tool introduction
 ### 1. CMIP6-bash-script
@@ -14,3 +14,23 @@ This Jupyter notebook contains python codes for extracting and exporting CMIP6 (
 
 * The (1) will automatically read files in the folder and export to .csv file. However, it won't concatenate mulitple periods into a single file.
 * The (2) is a slightly more complicated. You may have to edit the code slightly, but the benefit of this one is that it will concatenate files that got broken up to multiple period intervals. You have to specify all variables, experiment id, model, variance, and time period manually.
+
+
+### 3. ERA5-API
+[coming soon]
+
+
+### 4. Modified-lake-model-batch-code
+[coming soon]
+
+
+### 5. Preprocessing-tools
+[coming soon]
+
+
+### 6. Data-visualization
+[coming soon]
+
+
+### 7. Time-series-analysis
+[coming soon]
