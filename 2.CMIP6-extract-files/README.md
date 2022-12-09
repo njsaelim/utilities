@@ -1,4 +1,4 @@
-# CMIP6-extract-files
+# 2. CMIP6-extract-files
 
 This Jupyter notebook contains python codes for extracting and exporting CMIP6 (.nc) to .csv files. You have to create a folder called 'data' and place you .nc files there. There are two types of codes in the file: (1) simple extraction code, and (2) extraction and concatenation. 
 
