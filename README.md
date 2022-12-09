@@ -28,6 +28,7 @@ Note: you have install a python package "cdsapi" first. at).
 
 ### 5. Preprocessing-tools
 * resampling
+* Quantile-mapping algorithm.
 [More tools coming soon]
 
 
@@ -39,4 +40,8 @@ Note: you have install a python package "cdsapi" first. at).
 
 
 ### 7. Time-series-analysis
+* Error indices
+* Z-test and t-test
+* Filtering
+* Spectral analysis
 [coming soon]
