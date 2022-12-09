@@ -17,7 +17,9 @@ This Jupyter notebook contains python codes for extracting and exporting CMIP6 (
 
 
 ### 3. ERA5-API
-For people who use climate reanalysis or other products from European Centre for Medium-Range Weather Forecasts (ECMWF), you need an API to download data. The code is writen in python (jupyper notebook format). 
+For people who use climate reanalysis or other products from European Centre for Medium-Range Weather Forecasts (ECMWF), you need an API to retrieve data. Once you have API key, you can use this code to request and retreive data via HTTP easily.
+
+Note: you have install a python package "cdsapi" first. at). 
 
 
 ### 4. Modified-lake-model-batch-code
